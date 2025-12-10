@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "CQCQ",
+  "base_artist": "Kami-sama, I have noticed",
+  "createdAt": "2025-12-10T05:58:26.930662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CQCQ",
+      "artist": "Kami-sama, I have noticed",
+      "has_synced": true,
+      "path": "select/01_CQCQ_Kami-sama,_I_have_noticed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CQCQ",
+      "artist": "Kami-sama, I have noticed",
+      "has_synced": true,
+      "path": "select/02_CQCQ_Kami-sama,_I_have_noticed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CQCQ",
+      "artist": "Kami-sama, I have noticed",
+      "has_synced": true,
+      "path": "select/03_CQCQ_Kami-sama,_I_have_noticed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CQCQ",
+      "artist": "Kami-sama, I have noticed",
+      "has_synced": false,
+      "path": "select/pl_01_CQCQ_Kami-sama,_I_have_noticed.txt"
+    }
+  ]
+}
